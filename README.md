@@ -13,3 +13,6 @@ A list of resources curated to help in job search in tech. The list will be usef
 10. [Key-values - you give a set of attributes you desire in your future company](https://www.keyvalues.com/)
 11. [Hacker news jobs portal](https://news.ycombinator.com/jobs)
 12. [YC Work at a startup - Get a chance to work with YC backed startups](https://www.workatastartup.com/directory)
+13. [Jobscan - See how much your resume scores in Applicant Tracking System (ATS)](https://www.jobscan.co/)
+14. [Interviewing.io - Practice interviewing with engineers in tech anonymously](https://interviewing.io/)
+15. [Pramp - Practice interviews and coding problems](https://www.pramp.com/#/)
